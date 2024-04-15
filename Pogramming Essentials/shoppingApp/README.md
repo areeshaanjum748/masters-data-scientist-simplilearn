@@ -23,12 +23,7 @@ Screenshots
 ![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/e3688a49-25ff-4ff5-ba90-10f26302e429)   
 ![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/e11a342f-2002-4c67-887a-8d708da0cce7)   
 ![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/28845738-e2c8-432a-9a52-877b4031e479)  
-![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/84e579f1-ba4d-4799-9a2f-6653920d3230)  
-![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/5eb5aabb-3b6a-4a9a-ac11-e90f79b4fc68)  
-![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/b4323801-75ff-4987-9cf9-61ae25374e0a)  
-![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/f3e15a45-ee88-4d30-af69-d5da0c258b8e)  
-![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/6bc0b1a9-51cb-4fea-bd51-a927e38d4993)   
-![image](https://github.com/areeshaanjum748/masters-data-scientist-simplilearn/assets/55443395/7a40527b-d007-4efb-bcfe-87d20089e56d)
+
 
 
 
